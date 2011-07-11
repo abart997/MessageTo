@@ -1,0 +1,9 @@
+Package: com.abart997.preferredmail
+Name: MessageTo
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Send a new message or mail by doing a double tap Mail.app or Messages.app
+Maintainer: Andrea Oliva
+Author: Andrea Oliva
+Section: Tweaks
